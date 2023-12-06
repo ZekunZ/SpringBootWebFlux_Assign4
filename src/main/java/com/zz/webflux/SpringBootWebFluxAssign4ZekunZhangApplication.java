@@ -8,6 +8,7 @@ public class SpringBootWebFluxAssign4ZekunZhangApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWebFluxAssign4ZekunZhangApplication.class, args);
+		System.out.println("Spring Boot Webflux App started"); 
 	}
 
 }
